@@ -1,7 +1,7 @@
    <h1 align="center">Hi 👋, I'm  KALAl ANUSHA</h1>
 
   
-  ## <img src=<"C:\Users\kalal\OneDrive\Desktop\WhatsApp Image 2025-06-28 at 12.29.41_6fb84399.jpg;"/> About Me:
+  ## <img src=< "C:\Users\kalal\Downloads\img.jpg;"/> About Me:
 
  
 
