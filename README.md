@@ -1,7 +1,7 @@
    <h1 align="center">Hi 👋, I'm  KALAl ANUSHA</h1>
 
   
-  ## <img src=< "C:\Users\kalal\Downloads\img.jpg;"/> About Me:
+  
 
  
 
@@ -41,7 +41,7 @@
 
 ### 📫 Reach Me On:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s.shashipreethamreddy)
+
 [![Gmail](https://img.shields.io/badge/Gmail-kalalanushagoud@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sshashipreethamreddy@gmail.com)
 
 ---
