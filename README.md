@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="60%">
-      Hello, I’m <strong> KALAL ANUSHA</strong>, ❤️ Web-Developer, Competitive Coder and Machine Learning enthusiast.<br><br>
+      Hello, I’m <strong> KALAL ANUSHA</strong>, ❤️ Web-Developer and Competitive Coder .<br><br>
       I have rich experience in website design & customization.<br><br>
       I enjoy working with different languages and frameworks and love exploring new tech ✨.
     </td>
@@ -32,8 +32,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge)
+
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
@@ -43,7 +42,7 @@
 ### 📫 Reach Me On:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s.shashipreethamreddy)
-[![Gmail](https://img.shields.io/badge/Gmail-sshashipreethamreddy@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sshashipreethamreddy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kalalanushagoud@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sshashipreethamreddy@gmail.com)
 
 ---
 
